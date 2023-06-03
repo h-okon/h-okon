@@ -1,4 +1,4 @@
-# Hubert Szymon Okoń
+# Welcome to my profile, my name is Hubert.
 
 ## DevOps Engineer | Certified Jenkins Engineer
 

@@ -1,4 +1,4 @@
-# Welcome to my profile, my name is Hubert.
+# Hubert
 
 ## DevOps Engineer | Certified Jenkins Engineer
 
